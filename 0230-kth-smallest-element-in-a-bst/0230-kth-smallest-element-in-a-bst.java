@@ -16,7 +16,7 @@
 class Solution {
     int pre = 1;
     public int kthSmallest(TreeNode root, int k){
-        if(root == null) return -1;
+        // if(root == null) return -1;
 
         if(root.left != null){
             int left = kthSmallest(root.left , k);
