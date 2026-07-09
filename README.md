@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Nexit-ux/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Nexit-ux/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/Nexit-ux/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nexit-ux/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nexit-ux/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Nexit-ux/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Nexit-ux/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nexit-ux/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Nexit-ux/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Nexit-ux/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/Nexit-ux/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nexit-ux/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
@@ -50,9 +53,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Nexit-ux/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Nexit-ux/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Nexit-ux/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
