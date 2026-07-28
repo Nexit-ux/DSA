@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Nexit-ux/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Nexit-ux/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nexit-ux/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
 ## Array
 |  |
 | ------- |
@@ -152,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Nexit-ux/DSA/tree/master/1260-shift-2d-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
