@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nexit-ux/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0684-redundant-connection](https://github.com/Nexit-ux/DSA/tree/master/0684-redundant-connection) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/Nexit-ux/DSA/tree/master/0684-redundant-connection) |
 ## Array
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/Nexit-ux/DSA/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nexit-ux/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Nexit-ux/DSA/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
