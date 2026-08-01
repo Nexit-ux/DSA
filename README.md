@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Nexit-ux/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Nexit-ux/DSA/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nexit-ux/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0684-redundant-connection](https://github.com/Nexit-ux/DSA/tree/master/0684-redundant-connection) |
 ## Binary Search Tree
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Nexit-ux/DSA/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Nexit-ux/DSA/tree/master/0684-redundant-connection) |
 ## Array
 |  |
@@ -169,11 +171,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Nexit-ux/DSA/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Nexit-ux/DSA/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Nexit-ux/DSA/tree/master/0210-course-schedule-ii) |
 ## String
 |  |
 | ------- |
