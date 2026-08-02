@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nexit-ux/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nexit-ux/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Nexit-ux/DSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nexit-ux/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nexit-ux/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nexit-ux/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Nexit-ux/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nexit-ux/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nexit-ux/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0877-stone-game](https://github.com/Nexit-ux/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Nexit-ux/DSA/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Nexit-ux/DSA/tree/master/1260-shift-2d-grid) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nexit-ux/DSA/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nexit-ux/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Nexit-ux/DSA/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nexit-ux/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Nexit-ux/DSA/tree/master/0877-stone-game) |
 ## Shortest Path
 |  |
 | ------- |
