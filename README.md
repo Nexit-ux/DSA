@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Nexit-ux/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nexit-ux/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Nexit-ux/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Nexit-ux/DSA/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nexit-ux/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nexit-ux/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nexit-ux/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Nexit-ux/DSA/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Nexit-ux/DSA/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/Nexit-ux/DSA/tree/master/1406-stone-game-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nexit-ux/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Nexit-ux/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nexit-ux/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Nexit-ux/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Nexit-ux/DSA/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nexit-ux/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nexit-ux/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Nexit-ux/DSA/tree/master/1406-stone-game-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -229,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nexit-ux/DSA/tree/master/0070-climbing-stairs) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Nexit-ux/DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Nexit-ux/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
