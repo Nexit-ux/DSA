@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Nexit-ux/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nexit-ux/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nexit-ux/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0746-min-cost-climbing-stairs](https://github.com/Nexit-ux/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Nexit-ux/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Nexit-ux/DSA/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nexit-ux/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Nexit-ux/DSA/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Nexit-ux/DSA/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/Nexit-ux/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nexit-ux/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Nexit-ux/DSA/tree/master/0877-stone-game) |
 ## Recursion
