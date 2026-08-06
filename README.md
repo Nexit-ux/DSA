@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Nexit-ux/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nexit-ux/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Nexit-ux/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nexit-ux/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Nexit-ux/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Nexit-ux/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Nexit-ux/DSA/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nexit-ux/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Nexit-ux/DSA/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Nexit-ux/DSA/tree/master/1406-stone-game-iii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nexit-ux/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nexit-ux/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nexit-ux/DSA/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Nexit-ux/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
