@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nexit-ux/DSA/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/Nexit-ux/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Nexit-ux/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nexit-ux/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Nexit-ux/DSA/tree/master/0198-house-robber) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nexit-ux/DSA/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/Nexit-ux/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nexit-ux/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Nexit-ux/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Nexit-ux/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nexit-ux/DSA/tree/master/0213-house-robber-ii) |
