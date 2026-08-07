@@ -14,24 +14,13 @@
  * }
  */
 class Solution {
-    static TreeNode LinkedList(TreeNode root){
-        if(root == null) return null;
-        TreeNode left = LinkedList(root.left);
-        TreeNode right = LinkedList(root.right);
-        TreeNode temp = root.right;
-        root.right = null;
-        if(left != null){
-            root.left = null;
-            root.right = left;
-        }
-        TreeNode curr = root;
-        while(curr.right != null){
-            curr = curr.right;
-        }
-        curr.right = temp;
-        return root;
-    }
+    TreeNode link = null;
     public void flatten(TreeNode root) {
-        LinkedList(root);
+        if(root == null) return;
+        flatten(root.right);
+        flatten(root.left);
+        root.right = link;
+        root.left = null;
+        link = root;
     }
 }
