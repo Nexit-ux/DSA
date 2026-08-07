@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Nexit-ux/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Nexit-ux/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nexit-ux/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/Nexit-ux/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nexit-ux/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Nexit-ux/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Nexit-ux/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nexit-ux/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/Nexit-ux/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nexit-ux/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nexit-ux/DSA/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Nexit-ux/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Nexit-ux/DSA/tree/master/0075-sort-colors) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nexit-ux/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Nexit-ux/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nexit-ux/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nexit-ux/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nexit-ux/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Nexit-ux/DSA/tree/master/3731-find-missing-elements) |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nexit-ux/DSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0912-sort-an-array](https://github.com/Nexit-ux/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
