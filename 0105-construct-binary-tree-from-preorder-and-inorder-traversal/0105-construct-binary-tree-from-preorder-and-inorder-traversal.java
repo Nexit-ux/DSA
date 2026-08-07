@@ -15,22 +15,23 @@
  */
 class Solution {
     int preIdx = 0;
-    public int getIdx(int val , int[] inorder , int left , int right){
-        for(int i=left ; i<= right ; i++){
-            if(inorder[i] == val) return i;
+    public int getIdx(int[] inorder , int val){
+        for(int i=0 ; i<inorder.length ; i++){
+            if(inorder[i] == val){
+                return i;
+            }
         }
         return -1;
     }
-    public TreeNode build(int[] preorder , int[] inorder , int left , int right){
-        if(left > right) return null;
+    public TreeNode Build(int[] preorder , int[] inorder , int i , int j){
+        if(i > j) return null;
         TreeNode node = new TreeNode(preorder[preIdx]);
-        int inrIdx = getIdx(preorder[preIdx] , inorder , left , right);
-        preIdx++;
-        node.left = build(preorder , inorder , left , inrIdx-1);
-        node.right = build(preorder , inorder , inrIdx+1 , right);
+        int inrIdx = getIdx(inorder , preorder[preIdx++]);
+        node.left = Build(preorder , inorder , i , inrIdx-1);
+        node.right = Build(preorder , inorder , inrIdx+1 , j);
         return node;
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return build(preorder , inorder , 0 , preorder.length-1);
+        return Build(preorder , inorder , 0 , preorder.length-1);
     }
 }
