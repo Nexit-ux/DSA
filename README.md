@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nexit-ux/DSA/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/Nexit-ux/DSA/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/Nexit-ux/DSA/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nexit-ux/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/Nexit-ux/DSA/tree/master/3310-remove-methods-from-project) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nexit-ux/DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Nexit-ux/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Nexit-ux/DSA/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Nexit-ux/DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nexit-ux/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nexit-ux/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nexit-ux/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Nexit-ux/DSA/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/Nexit-ux/DSA/tree/master/1260-shift-2d-grid) |
 ## Graph Theory
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nexit-ux/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nexit-ux/DSA/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/Nexit-ux/DSA/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Nexit-ux/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nexit-ux/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nexit-ux/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Nexit-ux/DSA/tree/master/0877-stone-game) |
