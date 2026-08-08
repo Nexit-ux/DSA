@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nexit-ux/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Nexit-ux/DSA/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Nexit-ux/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nexit-ux/DSA/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nexit-ux/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Nexit-ux/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nexit-ux/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Nexit-ux/DSA/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Nexit-ux/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Nexit-ux/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nexit-ux/DSA/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Nexit-ux/DSA/tree/master/0542-01-matrix) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nexit-ux/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nexit-ux/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Nexit-ux/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Nexit-ux/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nexit-ux/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Nexit-ux/DSA/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nexit-ux/DSA/tree/master/0238-product-of-array-except-self) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Nexit-ux/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Nexit-ux/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nexit-ux/DSA/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Nexit-ux/DSA/tree/master/1260-shift-2d-grid) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Nexit-ux/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Nexit-ux/DSA/tree/master/0684-redundant-connection) |
 ## Dynamic Programming
 |  |
