@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Nexit-ux/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Nexit-ux/DSA/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nexit-ux/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/Nexit-ux/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [3310-remove-methods-from-project](https://github.com/Nexit-ux/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Nexit-ux/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Nexit-ux/DSA/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nexit-ux/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/Nexit-ux/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [3310-remove-methods-from-project](https://github.com/Nexit-ux/DSA/tree/master/3310-remove-methods-from-project) |
 ## Array
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Nexit-ux/DSA/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Nexit-ux/DSA/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nexit-ux/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/Nexit-ux/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [3310-remove-methods-from-project](https://github.com/Nexit-ux/DSA/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
@@ -315,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Nexit-ux/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Nexit-ux/DSA/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nexit-ux/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Nexit-ux/DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Nexit-ux/DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
